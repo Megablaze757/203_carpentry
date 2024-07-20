@@ -1,0 +1,38 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Jackson;Charlie;; ;
+FN: Charlie Jackson
+ORG:203 Carpentry & Joinery
+COMPANY:203 Carpentry & Joinery
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:+447368860029
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Charlie.jacko2002@gmail.com
+URL;TYPE=Digital Business Card:
+
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100768954
+URL;TYPE=Website:
+
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+URL;TYPE=WeChat:
+
+URL;TYPE=Instagram:https://www.instagram.com/203_carpentry/
+
+PHOTO;ENCODING=b:
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
